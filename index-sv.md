@@ -1,4 +1,4 @@
-[🇬🇧 View in English](./index)
+🌐 [🇺🇸 English (US)](./index-us.md) | [🇸🇪 Svenska](./index-sv.md)
 
 # Integritetspolicy
 
