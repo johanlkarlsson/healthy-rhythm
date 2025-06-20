@@ -1,3 +1,5 @@
+[🇬🇧 View in English](./index)
+
 # Integritetspolicy
 
 Senast uppdaterad: 20 juni 2025
