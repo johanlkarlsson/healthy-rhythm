@@ -1,39 +1,33 @@
 🌐 [🇬🇧 English (UK)](./index.md) | [🇺🇸 English (US)](./index-us.md) | [🇸🇪 Svenska](./index-sv.md)
 
-# Privacy Policy for Healthy Rhythm
+# Privacy Policy
 
-Effective date: Friday 20th June 2025
+_Last updated: [Month] [Day], [Year]_
 
-Healthy Rhythm is a wellness app designed to help you reflect on your daily habits. Your privacy is important, and this policy outlines what information we do — and more importantly, **do not** — collect.
+Thank you for using **Healthy Rhythm**. Your privacy matters to us. This app is designed to protect your data and respect your privacy.
 
-## What We Collect
+## Data Collection
 
-We **do not collect any personal information.**
+We do **not** collect, store, or transmit any personal data. All your activity and usage data stays **entirely on your device**.
 
-The app works entirely offline and stores all data locally on your device.
-
-## What We Don't Do
-
-- We do **not** collect, transmit, or share any personal data
-- We do **not** use analytics or tracking technologies
-- We do **not** require account creation or login
-- We do **not** access HealthKit, location, contacts, or any other sensitive data
+- No accounts or sign-ups are required.
+- No cloud syncing or remote storage is used (unless you explicitly enable this in a future update).
+- We do not use analytics, ads, or third-party tracking.
 
 ## Optional Features
 
-If you opt into beta testing via TestFlight, Apple may collect crash reports or usage information in accordance with [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/en-ww/). This data is not visible to us.
+If you enable optional features like local notifications, the app will request the appropriate permissions. These features work only on your device and are not connected to any external servers.
 
-## Future Updates
+## Your Rights
 
-Should the app offer online features in the future, such as cloud sync or competitions, we will update this policy to reflect any changes and ask for your permission where appropriate.
+Since no data is collected, there is no stored information to access, export, or delete. You are fully in control of your data at all times.
 
 ## Contact
 
-If you have any questions about this policy, feel free to contact the developer:
+If you have questions about this policy or need support, please contact:
 
-**Johan Karlsson**  
-[johan.karlsson@castra.se](mailto:johan.karlsson@castra.se)
+📧 **johan.karlsson@castra.se**
 
 ---
 
-© 2025 Johan Karlsson. All rights reserved.
+_Healthy Rhythm is developed in Sweden with care and simplicity in mind._
