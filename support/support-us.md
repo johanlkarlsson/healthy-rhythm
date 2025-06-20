@@ -1,33 +1,31 @@
-# Support & Contact
+# Support for Healthy Rhythm
 
-Welcome to **Healthy Rhythm** — your companion for building healthier daily habits.
+Welcome to the support page for **Healthy Rhythm** – your companion for building healthy habits, one day at a time.
 
-If you have any questions, feedback, or need help using the app, please don’t hesitate to reach out.
+We’re here to help if you have:
 
-- 📧 Email: [johan.karlsson@castra.se](mailto:johan.karlsson@castra.se)
+- Questions about how the app works
+- Suggestions for improvement
+- Bug reports or issues
+- General feedback
 
-We’re happy to hear from users and improve the app based on your suggestions.
+## Contact Us
 
----
+You can reach the developer directly by email:
 
-## About the App
+📧 **johan.karlsson@castra.se**
 
-Healthy Rhythm is a simple, offline-first app designed to support your physical and mental well-being through daily activities. It combines light exercise, mindfulness, and healthy routines in a gentle, approachable format.
+We’ll do our best to respond as soon as possible!
 
-The app is free of tracking, login requirements, or hidden data sync. All your data stays on your device.
+## Need Help Getting Started?
 
----
+Here are a few quick tips:
 
-## Marketing / Description
+- The app works fully offline – no account or login is needed.
+- You can track healthy activities day by day and see your progress.
+- Tap the **Help** button in each tab for more info.
+- The **Info** tab gives you access to settings, app version, and more.
 
-> **Move your body + use your mind + eat healthy = Healthy living.**
+Thank you for using Healthy Rhythm!
 
-- 🌿 Simple daily habits
-- 🧘 Mindfulness without pressure
-- 🍎 Healthy routines made easy
-- 📊 Track your wellness progress
-- 🔒 Works fully offline — your data stays yours
-
----
-
-Thank you for supporting Healthy Rhythm!
+_This app was made with care in Sweden._
