@@ -1,3 +1,5 @@
+[🇸🇪 Läs på svenska](./index-sv)
+
 # Privacy Policy for Healthy Rhythm
 
 Effective date: Friday 20th June 2025
