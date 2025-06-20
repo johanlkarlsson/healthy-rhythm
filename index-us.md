@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-_Last updated: [Month] [Day], [Year]_
+_Last updated: June 20, 2025
 
 Thank you for using **Healthy Rhythm**. Your privacy matters to us. This app is designed to protect your data and respect your privacy.
 
