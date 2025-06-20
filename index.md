@@ -1,4 +1,4 @@
-🌐 [🇺🇸 English (US)](./index-us.md) | [🇸🇪 Svenska](./index-sv.md)
+🌐 [🇬🇧 English (UK)](./index.md) | [🇺🇸 English (US)](./index-us.md) | [🇸🇪 Svenska](./index-sv.md)
 
 # Privacy Policy for Healthy Rhythm
 
