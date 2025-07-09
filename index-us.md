@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-_Last updated: June 20, 2025
+_Last updated: July 9, 2025
 
 Thank you for using **Healthy Rhythm**. Your privacy matters to us. This app is designed to protect your data and respect your privacy.
 
@@ -17,6 +17,14 @@ We do **not** collect, store, or transmit any personal data. All your activity a
 ## Optional Features
 
 If you enable optional features like local notifications, the app will request the appropriate permissions. These features work only on your device and are not connected to any external servers.
+
+## Health Data (HealthKit)
+
+**Healthy Rhythm** now optionally reads data from Apple Health (HealthKit) — such as your **water intake**, **workouts**, and **mindfulness sessions** — to help automatically mark your daily activities in the app.  
+**We do not write any data back to HealthKit**, nor do we share your data with third parties.  
+All health data retrieval happens **locally on your device** and only after *explicit user permission*. You can choose to sync manually using the **“Sync from Health”** button in the app.*
+
+\* Sync is currently manual, and only reads data for the selected day. No continuous background tracking is enabled.
 
 ## Your Rights
 
