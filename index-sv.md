@@ -2,7 +2,7 @@
 
 # Integritetspolicy
 
-Senast uppdaterad: 20 juni 2025
+Senast uppdaterad: 9 july 2025
 
 **Healthy Rhythm** respekterar din integritet. Den här appen samlar inte in någon personlig information och fungerar helt offline. Alla uppgifter du anger stannar på din enhet.
 
