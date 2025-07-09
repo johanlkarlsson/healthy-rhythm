@@ -2,7 +2,7 @@
 
 # Privacy Policy for Healthy Rhythm
 
-Effective date: Friday 20th June 2025
+Effective date: Wednesday 9th July 2025
 
 Healthy Rhythm is a wellness app designed to help you reflect on your daily habits. Your privacy is important, and this policy outlines what information we do — and more importantly, **do not** — collect.
 
