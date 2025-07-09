@@ -17,7 +17,6 @@ The app works entirely offline and stores all data locally on your device.
 - We do **not** collect, transmit, or share any personal data
 - We do **not** use analytics or tracking technologies
 - We do **not** require account creation or login
-- We do **not** access HealthKit, location, contacts, or any other sensitive data
 
 ## Optional Features
 
