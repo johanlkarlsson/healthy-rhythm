@@ -19,7 +19,7 @@ Responderemos lo antes posible.
 ## Sobre la app
 
 - **Nombre:** Healthy Rhythm
-- **Versión actual:** 1.0.0
+- **Versión actual:** 1.2.0
 - **Editor:** Castra
 - **Compatibilidad:** iPhone con iOS 17 o posterior
 
