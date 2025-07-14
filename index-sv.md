@@ -1,30 +1,63 @@
-🌐 [🇬🇧 English (UK)](./index.md) | [🇺🇸 English (US)](./index-us.md) | [🇸🇪 Svenska](./index-sv.md)
+🌐 [🇸🇪 Svenska](./index-sv.md) | [🇬🇧 English (UK)](./index.md) | [🇺🇸 English (US)](./index-us.md)
 
 # Integritetspolicy
 
-Senast uppdaterad: 9 july 2025
+Gäller från och med: 14 juli 2025
 
-**Healthy Rhythm** respekterar din integritet. Den här appen samlar inte in någon personlig information och fungerar helt offline. Alla uppgifter du anger stannar på din enhet.
+Healthy Rhythm (”appen”) utvecklas och underhålls av Johan Karlsson. Appen är utformad för att främja välmående och stödja dagliga rutiner genom att låta användare logga aktiviteter och följa sina framsteg. Denna integritetspolicy beskriver hur dina uppgifter hanteras.
 
-## Sammanfattning
+## 1. Datainsamling
 
-- Appen kräver inte någon inloggning.
-- Data lagras endast lokalt på din iPhone.
-- Ingen information skickas till någon server eller tredje part.
-- Appen använder inte platsdata, kamera eller mikrofon.
-- Appen begär frivilligt tillstånd för att skicka lokala notiser om du väljer att aktivera påminnelser.
+Healthy Rhythm samlar inte in någon personligt identifierbar information. All data lagras lokalt på din enhet, såvida du inte själv väljer att synkronisera med Apple Hälsa.
 
-## Hälsodata (HealthKit)
+### Hälsodata
 
-**Healthy Rhythm** läser nu valfritt data från Apple Health (HealthKit) — som ditt **vätskeintag**, **träning** och **mindfulness-sessioner** — för att automatiskt markera dagens aktiviteter i appen.  
-**Vi skriver inte tillbaka någon data till HealthKit**, och vi delar inte heller dina uppgifter med tredje part.  
-All hämtning av hälsodata sker **lokalt på din enhet** och endast efter *uttryckligt användartillstånd*. Du kan synka manuellt genom att trycka på knappen **”Synkronisera från Hälsa”** i appen.*
+Om du tillåter åtkomst till HealthKit kan appen läsa följande data från Apple Hälsa:
 
-\* Synkningen är för närvarande manuell och hämtar endast data för den valda dagen. Ingen kontinuerlig bakgrundssynk är aktiverad.
+- Vattenintag
+- Träning
+- Mindfulness-minuter
 
-## Kontakt
+Informationen används endast för att automatiskt markera aktiviteter som genomförda. Den lagras aldrig externt och delas inte vidare.
 
-Om du har några frågor om integritetspolicyn, vänligen kontakta:
+## 2. Datalagring
+
+All data stannar på din enhet. Healthy Rhythm överför eller lagrar inte någon data på externa servrar eller i molnet.
+
+## 3. Analys
+
+Appen använder inga tredjepartstjänster för analys. Ditt beteende i appen spåras inte, förutom det som lagras lokalt på din enhet.
+
+## 4. Behörigheter
+
+För att fungera som avsett kan appen begära följande behörigheter:
+
+- **Hälsoåtkomst** (valfritt): För att läsa specifik hälsodata från Apple Hälsa om du väljer att aktivera synkronisering.
+- **Notifieringar** (valfritt): Om påminnelser eller aviseringar introduceras i framtiden.
+
+Dessa behörigheter är frivilliga och krävs inte för att använda appens grundfunktioner.
+
+## 5. Barns integritet
+
+Healthy Rhythm är inte avsedd att användas av barn under 13 år. Ingen personlig information samlas medvetet in från barn.
+
+## 6. Ditt samtycke
+
+Genom att använda Healthy Rhythm godkänner du villkoren i denna integritetspolicy.
+
+## 7. Ändringar i policyn
+
+Denna policy kan komma att uppdateras. Eventuella ändringar återspeglas i detta dokument, och datumet för ”Gäller från och med” uppdateras i så fall.
+
+## 8. Kontakt
+
+Vid frågor kring denna policy, kontakta gärna:
+
+Tack för att du använder Healthy Rhythm!
 
 **Johan Karlsson**  
 [johan.karlsson@castra.se](mailto:johan.karlsson@castra.se)
+
+---
+
+© 2025 Johan Karlsson. Alla rättigheter förbehållna.
