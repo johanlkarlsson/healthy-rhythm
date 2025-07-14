@@ -62,4 +62,6 @@ Thank you for using Healthy Rhythm!
 
 © 2025 Johan Karlsson. All rights reserved.
 
+© 2025 Johan Karlsson. All rights reserved.
+
 _Healthy Rhythm is developed in Sweden with care and simplicity in mind._
