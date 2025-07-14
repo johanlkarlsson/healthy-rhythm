@@ -5,6 +5,7 @@ Welcome to **Healthy Rhythm** — your companion for building healthier daily ha
 If you have any questions, feedback, or need help using the app, please don’t hesitate to reach out.
 
 - 📧 Email: [johan.karlsson@castra.se](mailto:johan.karlsson@castra.se)
+- 🔐 [Privacy Policy](../index.md)
 
 We’re happy to hear from users and improve the app based on your suggestions.
 
@@ -22,11 +23,11 @@ The app is free of tracking, login requirements, or hidden data sync. All your d
 
 > **Move your body + use your mind + eat healthy = Healthy living.**
 
-- 🌿 Simple daily habits
-- 🧘 Mindfulness without pressure
-- 🍎 Healthy routines made easy
-- 📊 Track your wellness progress
-- 🔒 Works fully offline — your data stays yours
+- 🌿 Simple daily habits  
+- 🧘 Mindfulness without pressure  
+- 🍎 Healthy routines made easy  
+- 📊 Track your wellness progress  
+- 🔒 Works fully offline — your data stays yours  
 
 ---
 
