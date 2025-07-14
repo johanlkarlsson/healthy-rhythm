@@ -1,42 +1,63 @@
-# Política de privacidad de Healthy Rhythm
+🌐 [🇪🇸 Español](./index-es.md) | [🇬🇧 English (UK)](./index.md) | [🇺🇸 English (US)](./index-us.md) | [🇸🇪 Svenska](./index-sv.md)
 
-**Última actualización:** junio de 2025
+# Política de privacidad
 
-Gracias por usar **Healthy Rhythm**. Respetamos tu privacidad. Esta aplicación fue diseñada para funcionar completamente **sin conexión** y **sin recopilar datos personales**.
+Fecha de entrada en vigor: 14 de julio de 2025
 
-## Datos que NO recopilamos
+Healthy Rhythm ("la app") es desarrollada y mantenida por Johan Karlsson. Esta aplicación está diseñada para apoyar el bienestar y las rutinas diarias, permitiendo a los usuarios registrar actividades y visualizar su progreso. Esta política de privacidad describe cómo se maneja tu información.
 
-- No solicitamos ni almacenamos tu nombre, dirección de correo electrónico u otra información personal.
-- No compartimos datos con terceros.
-- No realizamos seguimiento de tu uso en la app.
+## 1. Recopilación de datos
 
-## Qué se guarda y dónde
+Healthy Rhythm no recopila información personal identificable. Todos los datos se almacenan localmente en tu dispositivo, a menos que elijas sincronizarlos con Apple Salud.
 
-Toda tu información, incluyendo actividades marcadas, configuraciones y recordatorios, **se guarda únicamente en tu dispositivo**. No se sube a servidores externos ni se sincroniza en la nube.
+### Datos de salud
 
-## Permisos
+Si activas el acceso a HealthKit, la app puede leer datos desde Apple Salud relacionados con:
 
-La app puede pedir permiso para enviarte notificaciones. Estas se usan únicamente como recordatorios diarios, si tú decides activarlos.
+- Consumo de agua
+- Ejercicio físico
+- Minutos de atención plena (mindfulness)
 
-## Datos de salud (HealthKit)
+Esta información se usa únicamente para marcar actividades como completadas de forma automática. Nunca se almacena externamente ni se comparte.
 
-**Healthy Rhythm** ahora puede leer opcionalmente datos desde Apple Health (HealthKit) — como tu **consumo de agua**, **entrenamientos** y **sesiones de mindfulness** — para marcar automáticamente tus actividades diarias en la app.  
-**No escribimos ningún dato de vuelta a HealthKit**, ni compartimos tus datos con terceros.  
-La recuperación de datos de salud se realiza **localmente en tu dispositivo** y solo después de *tu permiso explícito*. Puedes sincronizar manualmente con el botón **“Sincronizar desde Salud”** en la app.*
+## 2. Almacenamiento de datos
 
-\* La sincronización es actualmente manual y solo lee datos del día seleccionado. No se activa seguimiento continuo en segundo plano.
+Todos los datos de la app permanecen en tu dispositivo. Healthy Rhythm no transmite ni almacena datos en servidores externos ni en la nube.
 
-## Cambios en esta política
+## 3. Análisis
 
-Si hacemos cambios en esta política de privacidad, los reflejaremos en esta página.
+La app no utiliza servicios de análisis de terceros. Tu comportamiento dentro de la app no se rastrea ni analiza, salvo por lo que queda almacenado localmente en tu dispositivo.
 
-## Contacto
+## 4. Permisos
+
+Para funcionar correctamente, la app puede solicitar los siguientes permisos:
+
+- **Acceso a Salud** (opcional): Para leer determinados datos de salud desde Apple Salud, si eliges activar la sincronización.
+- **Acceso a notificaciones** (opcional): En caso de que se implementen recordatorios o notificaciones en el futuro.
+
+Estos permisos son opcionales y no se requieren para utilizar las funciones principales de la app.
+
+## 5. Privacidad infantil
+
+Healthy Rhythm no está diseñada para menores de 13 años. No se recopila conscientemente información personal de niños.
+
+## 6. Tu consentimiento
+
+Al utilizar Healthy Rhythm, aceptas los términos descritos en esta política de privacidad.
+
+## 7. Cambios en esta política
+
+Esta política puede actualizarse ocasionalmente. Cualquier cambio se reflejará en este documento y se actualizará la "Fecha de entrada en vigor".
+
+## 8. Contacto
 
 Si tienes preguntas sobre esta política, puedes contactar a:
 
-📧 **[johan.karlsson@castra.se](mailto:johan.karlsson@castra.se)**
+¡Gracias por usar Healthy Rhythm!
+
+**Johan Karlsson**  
+[johan.karlsson@castra.se](mailto:johan.karlsson@castra.se)
 
 ---
 
-_Hecho con cuidado para ayudarte a vivir de forma más saludable._  
-– Johan Karlsson
+© 2025 Johan Karlsson. Todos los derechos reservados.
