@@ -53,8 +53,6 @@ This privacy policy may be updated from time to time. Any changes will be reflec
 
 If you have any questions about this policy, you may contact:
 
----
-
 Thank you for using Healthy Rhythm!
 
 **Johan Karlsson**  
