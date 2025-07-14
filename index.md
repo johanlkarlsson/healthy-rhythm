@@ -1,42 +1,61 @@
 🌐 [🇬🇧 English (UK)](./index.md) | [🇺🇸 English (US)](./index-us.md) | [🇸🇪 Svenska](./index-sv.md)
 
-# Privacy Policy for Healthy Rhythm
+# Privacy Policy
 
-Effective date: Wednesday 9th July 2025
+Effective date: April 6, 2025
 
-Healthy Rhythm is a wellness app designed to help you reflect on your daily habits. Your privacy is important, and this policy outlines what information we do — and more importantly, **do not** — collect.
+Healthy Rhythm (“the app”) is developed and maintained by Johan Karlsson. This app is designed to support well-being and daily routines by allowing users to track activities and view their progress. This privacy policy outlines how your data is handled.
 
-## What We Collect
+## 1. Data Collection
 
-We **do not collect any personal information.**
+Healthy Rhythm does not collect any personally identifiable information. All data is stored locally on your device unless you explicitly choose to sync data with Apple Health.
 
-The app works entirely offline and stores all data locally on your device.
+### Health Data
 
-## What We Don't Do
+If you enable HealthKit access, the app may read data from Apple Health related to:
 
-- We do **not** collect, transmit, or share any personal data
-- We do **not** use analytics or tracking technologies
-- We do **not** require account creation or login
+- Water intake
+- Workouts
+- Mindfulness minutes
 
-## Optional Features
+This information is only used to help automatically mark activities as complete and is never stored externally or shared.
 
-If you opt into beta testing via TestFlight, Apple may collect crash reports or usage information in accordance with [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/en-ww/). This data is not visible to us.
+## 2. Data Storage
 
-## Health Data (HealthKit)
+All app data remains on your device. Healthy Rhythm does not transmit or store any data on external servers or cloud services.
 
-**Healthy Rhythm** now optionally reads data from Apple Health (HealthKit) — such as your **water intake**, **workouts**, and **mindfulness sessions** — to help automatically mark your daily activities in the app.  
-**We do not write any data back to HealthKit**, nor do we share your data with third parties.  
-All health data retrieval happens **locally on your device** and only after *explicit user permission*. You can choose to sync manually using the **“Sync from Health”** button in the app.*
+## 3. Analytics
 
-\* Sync is currently manual, and only reads data for the selected day. No continuous background tracking is enabled.
+The app does not use any third-party analytics services. Your behavior in the app is not tracked or analyzed beyond what is stored on your device.
 
-## Future Updates
+## 4. Permissions
 
-Should the app offer online features in the future, such as cloud sync or competitions, we will update this policy to reflect any changes and ask for your permission where appropriate.
+To function properly, the app may request the following permissions:
 
-## Contact
+- **Health Access** (optional): To read selected health data from Apple Health if you choose to enable syncing.
+- **Notification Access** (optional): If reminders or notifications are introduced in the future.
 
-If you have any questions about this policy, feel free to contact the developer:
+These permissions are optional and are not required to use the core features of the app.
+
+## 5. Children’s Privacy
+
+Healthy Rhythm is not intended for use by children under the age of 13. No personal data is knowingly collected from children.
+
+## 6. Your Consent
+
+By using Healthy Rhythm, you agree to the terms outlined in this privacy policy.
+
+## 7. Changes to This Policy
+
+This privacy policy may be updated from time to time. Any changes will be reflected in this document, and the "Effective date" will be updated accordingly.
+
+## 8. Contact
+
+If you have any questions about this policy, you may contact:
+
+---
+
+Thank you for using Healthy Rhythm!
 
 **Johan Karlsson**  
 [johan.karlsson@castra.se](mailto:johan.karlsson@castra.se)
