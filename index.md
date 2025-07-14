@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-Effective date: April 6, 2025
+Effective date: July 14, 2025
 
 Healthy Rhythm (“the app”) is developed and maintained by Johan Karlsson. This app is designed to support well-being and daily routines by allowing users to track activities and view their progress. This privacy policy outlines how your data is handled.
 
