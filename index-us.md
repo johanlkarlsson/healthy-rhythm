@@ -1,41 +1,65 @@
-🌐 [🇬🇧 English (UK)](./index.md) | [🇺🇸 English (US)](./index-us.md) | [🇸🇪 Svenska](./index-sv.md)
+🌐 [🇺🇸 English (US)](./index-us.md) | [🇬🇧 English (UK)](./index.md) | [🇸🇪 Svenska](./index-sv.md)
 
 # Privacy Policy
 
-_Last updated: July 9, 2025
+Effective date: July 14, 2025
 
-Thank you for using **Healthy Rhythm**. Your privacy matters to us. This app is designed to protect your data and respect your privacy.
+Healthy Rhythm (“the app”) is developed and maintained by Johan Karlsson. This app is designed to support well-being and daily routines by allowing users to track activities and view their progress. This privacy policy outlines how your data is handled.
 
-## Data Collection
+## 1. Data Collection
 
-We do **not** collect, store, or transmit any personal data. All your activity and usage data stays **entirely on your device**.
+Healthy Rhythm does not collect any personally identifiable information. All data is stored locally on your device unless you explicitly choose to sync data with Apple Health.
 
-- No accounts or sign-ups are required.
-- No cloud syncing or remote storage is used (unless you explicitly enable this in a future update).
-- We do not use analytics, ads, or third-party tracking.
+### Health Data
 
-## Optional Features
+If you enable HealthKit access, the app may read data from Apple Health related to:
 
-If you enable optional features like local notifications, the app will request the appropriate permissions. These features work only on your device and are not connected to any external servers.
+- Water intake
+- Workouts
+- Mindfulness minutes
 
-## Health Data (HealthKit)
+This information is only used to help automatically mark activities as complete and is never stored externally or shared.
 
-**Healthy Rhythm** now optionally reads data from Apple Health (HealthKit) — such as your **water intake**, **workouts**, and **mindfulness sessions** — to help automatically mark your daily activities in the app.  
-**We do not write any data back to HealthKit**, nor do we share your data with third parties.  
-All health data retrieval happens **locally on your device** and only after *explicit user permission*. You can choose to sync manually using the **“Sync from Health”** button in the app.*
+## 2. Data Storage
 
-\* Sync is currently manual, and only reads data for the selected day. No continuous background tracking is enabled.
+All app data remains on your device. Healthy Rhythm does not transmit or store any data on external servers or cloud services.
 
-## Your Rights
+## 3. Analytics
 
-Since no data is collected, there is no stored information to access, export, or delete. You are fully in control of your data at all times.
+The app does not use any third-party analytics services. Your behavior in the app is not tracked or analyzed beyond what is stored on your device.
 
-## Contact
+## 4. Permissions
 
-If you have questions about this policy or need support, please contact:
+To function properly, the app may request the following permissions:
 
-📧 **johan.karlsson@castra.se**
+- **Health Access** (optional): To read selected health data from Apple Health if you choose to enable syncing.
+- **Notification Access** (optional): If reminders or notifications are introduced in the future.
+
+These permissions are optional and are not required to use the core features of the app.
+
+## 5. Children’s Privacy
+
+Healthy Rhythm is not intended for use by children under the age of 13. No personal data is knowingly collected from children.
+
+## 6. Your Consent
+
+By using Healthy Rhythm, you agree to the terms outlined in this privacy policy.
+
+## 7. Changes to This Policy
+
+This privacy policy may be updated occasionally. Any changes will be reflected in this document, and the "Effective date" will be updated accordingly.
+
+## 8. Contact
+
+If you have any questions about this policy, you may contact:
+
+Thank you for using Healthy Rhythm!
+
+**Johan Karlsson**  
+[johan.karlsson@castra.se](mailto:johan.karlsson@castra.se)
 
 ---
+
+© 2025 Johan Karlsson. All rights reserved.
 
 _Healthy Rhythm is developed in Sweden with care and simplicity in mind._
