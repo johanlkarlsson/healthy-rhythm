@@ -1,1 +1,22 @@
-
+[
+  {
+    "id": "event_new_year",
+    "nameKey": "badge_event_new_year",
+    "descriptionKey": "badge_event_new_year_description",
+    "category": "event",
+    "iconName": "calendar.badge.plus",
+    "threshold": 1,
+    "isRemote": true,
+    "isActive": true
+  },
+  {
+    "id": "event_july_challenge",
+    "nameKey": "badge_event_july_challenge",
+    "descriptionKey": "badge_event_july_challenge_description",
+    "category": "event",
+    "iconName": "star.circle",
+    "threshold": 7,
+    "isRemote": true,
+    "isActive": true
+  }
+]
